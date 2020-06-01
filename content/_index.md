@@ -4,7 +4,7 @@ lastmod: 2020-05-29T15:26:15Z
 publishdate: 2020-05-29T15:26:15Z
 draft: false
 TableOfContents: true
-title: 王小波作品精选
+title: Home | 首页
 description: 王小波，作家界最会编程的，编程中最会写作的。我的精神导师和终身偶像。
 images:
 - images/xiaobo.jpg
