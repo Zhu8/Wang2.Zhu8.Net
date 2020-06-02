@@ -8,6 +8,7 @@ title: "Novel | 小说"
 description: "王小波小说作品，包括时代三部曲“黄金时代、白银时代、青铜时代；其他小说及剧本：黑铁时代、地久天长。"
 slug: novel
 draft: false
+
 ---
 ### 时代三部曲
 
