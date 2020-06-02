@@ -9,20 +9,14 @@ description: "曾有那么一个我们拥有过的日子，如果你会在今天
 slug: gold
 draft: false
 ---
-### 时代三部曲
 
-*   [黄金时代](/novel/gold/)
-*   曾有那么一个我们拥有过的日子，如果你会在今天怀念起一个故事、一首歌、一段时光……就算岁月一去不返，你也不曾失去那种美好。
-*   [白银时代](/novel/silver/)
-*   日子和日子什么不同？如果让我们重来，我一定不会忘了在那个夏日的午后握住你的手……任凭斗转星移，岁月改变你的容颜，青春不再绽放，只有我对你的心意，历久而弥新。
-*   [青铜时代](/novel/copper/)
-*   思维已混沦，一千年的日子可以如此轻易地来回。
+*时代三部曲之一。[全]*
+**曾有那么一个我们拥有过的日子， 如果你会在今天怀念起一个故事、一首歌、一段时光……就算岁月一去不返，你也不曾失去那种美好。**
 
-### 其他小说及剧本
-
-*   [黑铁时代](/novel/iron/)
-*   由于王小波英年早逝，本部书是其妻李银河博士在其逝世后整理发表的。  
-    包括 绿毛水怪、战福、这是真的、歌仙、这辈子（附录：最灿烂的阳光）、变形记、猫、我在荒岛上迎接黎明 等。
-*   [地久天长](/novel/forever/)
-*   这是王小波小说剧本集。收录了他的最早发表的一些文章，比如同名的《地久天长》，这部中篇以回忆的形式描述了作者插队时期的经历，文风朴实而又沉痛。作品集还收录了王小波的《唐人故事集》，这种体裁是《青铜时代》的童稚状态，也是王小波文风转变的开始。  
-    除了另外几篇随感外，还有和张元合作的获奖的电影剧本《东宫·西宫》，一部同性恋体裁的独立制作电影，未曾获准在国内上映。
+- [我为什么要写作](gold/timetop.html)（时代三部曲总序）
+- [黄金时代](gold/gold-1.html) [1](gold/gold-1.html) [2](gold/gold-2.html) [3](gold/gold-3.html) [4](gold/gold-4.html) [5](gold/gold-5.html) [6](gold/gold-6.html)
+- [三十而立](gold/thirty01.html) [1](gold/thirty01.html) [2](gold/thirty02.html) [3](gold/thirty03.html) [4](gold/thirty04.html) [5](gold/thirty05.html) [6](gold/thirty06.html) [7](gold/thirty07.html)
+- [似水流年](gold/timegoesby01.html) [1](gold/timegoesby01.html) [2](gold/timegoesby02.html) [3](gold/timegoesby03.html) [4](gold/timegoesby04.html) [5](gold/timegoesby05.html) [6](gold/timegoesby06.html) [7](gold/timegoesby07.html) [8](gold/timegoesby08.html)
+- [革命时期的爱情](gold/geming01.html) [1](gold/geming01.html) [2](gold/geming02.html) [3](gold/geming03.html) [4](gold/geming04.html) [5](gold/geming05.html) [6](gold/geming06.html) [7](gold/geming07.html) [8](gold/geming08.html) [9](gold/geming09.html) [10](gold/geming10.html) [11](gold/geming11.html) [12](gold/geming12.html) *NEW!*
+- [我的阴阳两界](gold/yin01.html) [1](gold/yin01.html) [2](gold/yin02.html) [3](gold/yin03.html) [4](gold/yin04.html)
+- [后记](gold/postscript.html)
