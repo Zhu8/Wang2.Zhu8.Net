@@ -1,12 +1,11 @@
 ---
-weight: 20
+weight: 10
 date: 2020-05-29T15:26:15Z
 lastmod: 2020-05-29T15:26:15Z
 publishdate: 2020-05-29T15:26:15Z
 TableOfContents: true
-title: "沉默的大多数"
-description: "杂文集《沉默的大多数》是王小波去世后发行的第二部杂文集，其中有些篇幅与他的自选集《我的精神家园》重复（可能是不同的出版社的缘故吧）。"
-slug: keepsilent
+title: "我的精神家园—王小波杂文自选集"
+description: "杂文最能反映一个人的思想。如此一个人，冒冒失失地闯进文坛，然后消失得象他来时一样快……"
 draft: false
 ---
 ### 杂文

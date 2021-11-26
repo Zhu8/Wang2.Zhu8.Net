@@ -1,12 +1,11 @@
 ---
-weight: 10
+weight: 20
 date: 2020-05-29T15:26:15Z
 lastmod: 2020-05-29T15:26:15Z
 publishdate: 2020-05-29T15:26:15Z
 TableOfContents: true
-title: "王小波与李银河书信集"
-description: "你知道吗，郊外的一条大路认得我呢。有时候，天蓝得发暗，天上的云彩白得好像一个凸出来的拳头。"
-slug: letter
+title: "他们的世界——中国男同性恋群落透视"
+description: "王小波与妻子李银河合作的一本同性恋心理分析著作。这本书比时代三部曲还先出版，由于选材及视角的独特性，半年之间在大陆与香港两地先后出版。"
 draft: false
 ---
 ### 书信及其他

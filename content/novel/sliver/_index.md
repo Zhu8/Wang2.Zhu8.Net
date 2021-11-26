@@ -1,12 +1,11 @@
 ---
-weight: 30
+weight: 20
 date: 2020-05-29T15:26:15Z
 lastmod: 2020-05-29T15:26:15Z
 publishdate: 2020-05-29T15:26:15Z
 TableOfContents: true
-title: "青铜时代"
-description: "思维已混沦，一千年的日子可以如此轻易地来回。"
-slug: copper
+title: "白银时代[时代三部曲之二]"
+description: "日子和日子什么不同？如果让我们重来，我一定不会忘了在那个夏日的午后握住你的手……任凭斗转星移，岁月改变你的容颜，青春不再绽放，只有我对你的心意，历久而弥新。"
 draft: false
 ---
 ### 时代三部曲

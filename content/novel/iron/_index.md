@@ -1,12 +1,11 @@
 ---
-weight: 20
+weight: 50
 date: 2020-05-29T15:26:15Z
 lastmod: 2020-05-29T15:26:15Z
 publishdate: 2020-05-29T15:26:15Z
 TableOfContents: true
-title: "白银时代"
-description: "日子和日子什么不同？如果让我们重来，我一定不会忘了在那个夏日的午后握住你的手……任凭斗转星移，岁月改变你的容颜，青春不再绽放，只有我对你的心意，历久而弥新。"
-slug: silver
+title: "黑铁时代[早期作品]"
+description: "包括 绿毛水怪、战福、这是真的、歌仙、这辈子（附录：最灿烂的阳光）、变形记、猫、我在荒岛上迎接黎明 等。"
 draft: false
 ---
 ### 时代三部曲
