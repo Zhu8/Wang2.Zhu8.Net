@@ -7,7 +7,7 @@ TableOfContents: false
 title: Home | 首页
 description: 王小波，作家界最会编程的，编程中最会写作的。我的精神导师和终身偶像。
 images:
-- images/xiaobo.jpg
+- /images/xiaobo.jpg
 ---
 
 # 本站收集的王小波作品列表（补充中）
@@ -22,22 +22,27 @@ images:
 
 ### 时代三部曲
 
-#### <img style="max-width:200px;" alt="黄金时代" src="/images/huangjin.jpg"><br />[黄金时代](/novel/gold/)
+#### [黄金时代](/novel/gold/)
+<img style="max-width:200px;" alt="黄金时代" src="/images/huangjin.jpg"><br />
 > 曾有那么一个我们拥有过的日子，如果你会在今天怀念起一个故事、一首歌、一段时光……就算岁月一去不返，你也不曾失去那种美好。
 
-#### <img style="max-width:200px;" alt="白银时代" src="/images/baiyin.jpg"><br />[白银时代](/novel/silver/)
+#### [白银时代](/novel/silver/)
+<img style="max-width:200px;" alt="白银时代" src="/images/baiyin.jpg"><br />
 > 日子和日子什么不同？如果让我们重来，我一定不会忘了在那个夏日的午后握住你的手……任凭斗转星移，岁月改变你的容颜，青春不再绽放，只有我对你的心意，历久而弥新。
 
-#### <img style="max-width:200px;" alt="青铜时代" src="/images/qingtong.jpg"><br />[青铜时代](/novel/copper/)
+#### [青铜时代](/novel/copper/)
+<img style="max-width:200px;" alt="青铜时代" src="/images/qingtong.jpg"><br />
 > 思维已混沦，一千年的日子可以如此轻易地来回。
 
 ### 其他小说及剧本
 
-#### <img style="max-width:200px;" alt="黑铁时代" src="/images/heitie.jpg"><br />[黑铁时代](/novel/iron/)
+#### [黑铁时代](/novel/iron/)
+<img style="max-width:200px;" alt="黑铁时代" src="/images/heitie.jpg"><br />
 > 由于王小波英年早逝，本部书是其妻李银河博士在其逝世后整理发表的。  
 > 包括 **绿毛水怪**、**战福**、**这是真的**、**歌仙**、**这辈子（附录：最灿烂的阳光）**、**变形记**、**猫**、**我在荒岛上迎接黎明** 等。
 
-#### <img style="max-width:200px;" alt="地久天长" src="/images/dijiutianchang.jpg"><br />[地久天长](/novel/forever/)
+#### [地久天长](/novel/forever/)
+<img style="max-width:200px;" alt="地久天长" src="/images/dijiutianchang.jpg"><br />
 > 这是王小波小说剧本集。收录了他的最早发表的一些文章，比如同名的《地久天长》，这部中篇以回忆的形式描述了作者插队时期的经历，文风朴实而又沉痛。作品集还收录了王小波的《唐人故事集》，这种体裁是《青铜时代》的童稚状态，也是王小波文风转变的开始。  
 > 除了另外几篇随感外，还有和张元合作的获奖的电影剧本《东宫·西宫》，一部同性恋体裁的独立制作电影，未曾获准在国内上映。
 
@@ -45,21 +50,25 @@ images:
 
 ### 杂文
 
-#### <img style="max-width:200px;" alt="我的精神家园—王小波杂文自选集" src="/images/wode.jpg"><br/>[我的精神家园—王小波杂文自选集](/scribble/spirithome/)
+#### [我的精神家园—王小波杂文自选集](/scribble/spirithome/)
+<img style="max-width:200px;" alt="我的精神家园—王小波杂文自选集" src="/images/wode.jpg"><br/>
 > 具有代表性的杂文集，重新按发表的目录编排了一下，补了这么久，到今天这部可算全齐了，呵呵。 **\[全\]**  
 > 其实杂文最能反映一个人的思想。如此一个人，冒冒失失地闯进文坛，然后消失得象他来时一样快……
 
-#### <img style="max-width:200px;" alt="沉默的大多数" src="/images/chenmo.jpg"><br />[沉默的大多数](/scribble/keepsilent/)
+#### [沉默的大多数](/scribble/keepsilent/)
+<img style="max-width:200px;" alt="沉默的大多数" src="/images/chenmo.jpg"><br />
 > 杂文集《沉默的大多数》是王小波去世后发行的第二部杂文集，其中有些篇幅与他的自选集《我的精神家园》重复（可能是不同的出版社的缘故吧），相同的我就偷点懒，不再重新整理，直接指向已有的作品。这本杂文集也收录了他的一些其它在各种报刊上发表的作品，对于研究他的各阶段作品也是很好的参考资料。
 
 ### 书信及其他
 
-#### <img style="max-width:200px;" alt="爱你就像爱生命" src="/images/aini.jpg"><br />[王小波与李银河书信集](/misc/letter/)
+#### [王小波与李银河书信集](/misc/letter/)
+<img style="max-width:200px;" alt="爱你就像爱生命" src="/images/aini.jpg"><br />
 > “......你知道吗，郊外的一条大路认得我呢。有时候，天蓝得发暗，天上的云彩白得好像一个凸出来的拳头。那时候这条路上就走来一个虎头虎脑、傻乎乎的孩子，他长得就像我给你那张相片上一样。后来又走过来一个又黑又瘦的少年。后来又走过来一个又高又瘦又丑的家伙，涣散的要命，出奇的喜欢幻想。后来，再过几十年，他就永远不会走上这条路了。你喜欢他的故事吗？” 
  
 *现已重新出版《爱你就像爱生命》*
 
-#### <img style="max-width:200px;" alt="他们的世界" src="/images/tamen.jpg"><br/>[他们的世界——中国男同性恋群落透视](/misc/theirworld/)
+#### [他们的世界——中国男同性恋群落透视](/misc/theirworld/)
+<img style="max-width:200px;" alt="他们的世界" src="/images/tamen.jpg"><br/>
 > 王小波与妻子李银河合作的一本同性恋心理分析著作。这本书比时代三部曲还先出版，由于选材及视角的独特性，半年之间在大陆与香港两地先后出版。  
 > 我们知道王小波曾经成功创作了一部同一题材的剧本，此外在他的小说里常常会出现S/M及HOMO的场面，也给作品增加了另类的气氛。
 
