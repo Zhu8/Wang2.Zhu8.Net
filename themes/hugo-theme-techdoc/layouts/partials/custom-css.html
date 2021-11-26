@@ -3,4 +3,10 @@
   {{- with .Site.Params.custom_font_color }}--custom-font-color: {{ . | safeCSS }};{{ end -}}
   {{- with .Site.Params.custom_background_color }}--custom-background-color: {{ . | safeCSS }};{{ end -}}
 }
+.content-container p {
+  text-indent: 2rem;
+}
+.content-container blockquote p {
+  text-indent: 0;
+}
 </style>
