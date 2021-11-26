@@ -1,9 +1,9 @@
 ---
 date: 2020-05-29T15:26:15Z
-lastmod: 2020-05-29T15:26:15Z
+lastmod: 2021-11-26T21:42:15Z
 publishdate: 2020-05-29T15:26:15Z
 draft: false
-TableOfContents: true
+TableOfContents: false
 title: Home | 首页
 description: 王小波，作家界最会编程的，编程中最会写作的。我的精神导师和终身偶像。
 images:
