@@ -5,7 +5,6 @@ publishdate: 2020-06-02T15:26:15Z
 TableOfContents: true
 title: "黄金时代（二）"
 description: "那天晚上我没走掉。陈清扬把我拽住，以伟大友谊的名义叫我留下来。她承认打我不对，也承认没有好好待我，但是她说我的伟大友谊是假的，还说，我把她骗出来就是想研究她的结构。"
-slug: gold-2
 draft: false
 weight: 30
 ---

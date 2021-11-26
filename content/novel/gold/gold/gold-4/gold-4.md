@@ -5,7 +5,6 @@ publishdate: 2020-06-02T15:26:15Z
 TableOfContents: true
 title: "黄金时代（四）"
 description: "我后来又见到陈清扬，和她在饭店里登记了房间，然后一起到房间里去，我伸手帮她脱下大衣。陈清扬说，王二变得文明了。这说明我已经变了很多。以前我不但相貌凶恶，行为也很凶恶。"
-slug: gold-4
 draft: false
 weight: 50
 ---

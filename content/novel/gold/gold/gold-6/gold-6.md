@@ -5,7 +5,6 @@ publishdate: 2020-06-02T15:26:15Z
 TableOfContents: true
 title: "黄金时代（六）"
 description: "我写了很长时间交待材料，领导上总说，交待得不彻底，还要继续交待。所以我以为，我的下半辈子要在交待中度过。最后陈清扬写了一篇交待材料，没给我看，就交到了人保组。此后就再没让我们写材料。"
-slug: gold-6
 draft: false
 weight: 70
 ---

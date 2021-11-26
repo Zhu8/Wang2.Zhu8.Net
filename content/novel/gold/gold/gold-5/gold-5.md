@@ -5,7 +5,6 @@ publishdate: 2020-06-02T15:26:15Z
 TableOfContents: true
 title: "黄金时代（五）"
 description: "我和陈清扬在章风山上做爱时，她还很白，太阳穴上的血管清晰可见。后来在山里晒得很黑。回到农场又变得白皙。后来到了军民共建边防时期，星期天机务站出一辆大拖拉机，拉上一车有问题的人到砖窑出砖。"
-slug: gold-5
 draft: false
 weight: 60
 ---

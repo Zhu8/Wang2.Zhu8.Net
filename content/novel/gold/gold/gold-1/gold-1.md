@@ -5,7 +5,6 @@ publishdate: 2020-06-02T15:26:15Z
 TableOfContents: true
 title: "黄金时代（一）"
 description: "我二十一岁时，正在云南插队。陈清扬当时二十六岁，就在我插队的地方当医生。我在山下十四队，她在山上十五队。有一天她从山上下来，和我讨论她不是破鞋的问题。"
-slug: gold-1
 draft: false
 weight: 20
 ---
