@@ -20,6 +20,16 @@
 <link type="text/css" rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/5.15.4/css/all.min.css" />
 {{ partial "meta/chroma.html" . -}}
 <script src="https://cdn.staticfile.org/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="{{"js/ResizeSensor.min.js" | absURL}}"></script>
+<script type="text/javascript" src="{{"js/theia-sticky-sidebar.min.js" | absURL}}"></script>		
+<script type="text/javascript">
+  jQuery(document).ready(function() {
+    jQuery('.content, .sidebar').theiaStickySidebar({
+      // Settings
+      additionalMarginTop: 30
+    });
+  });
+</script>
 <script src="https://cdn.staticfile.org/jquery-easing/1.4.1/jquery.easing.min.js"></script>
 <script src="{{"js/bundle.js" | absURL}}"></script>
 {{- partial "meta/google-analytics-async.html" . -}}
