@@ -4,7 +4,7 @@ date: 2020-05-29T15:26:15Z
 lastmod: 2020-05-29T15:26:15Z
 publishdate: 2020-05-29T15:26:15Z
 TableOfContents: true
-title: "Misc | 其他"
+title: "其他 | Misc"
 description: "王小波其他作品，包括书信集《爱你就像爱生命》、他们的世界——中国男同性恋群落透视。"
 slug: misc
 draft: false

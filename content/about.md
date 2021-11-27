@@ -1,11 +1,11 @@
 +++
 
-title = "About | 关于"
+title = "关于 | About"
 date = "2020-06-01"
 menu = "main"
 slug = "about"
 description = "本站的源起和主要材料的来源。"
-
+weight = 2
 +++
 
 本站源起

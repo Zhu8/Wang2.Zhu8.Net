@@ -4,7 +4,7 @@ date: 2020-05-29T15:26:15Z
 lastmod: 2020-05-29T15:26:15Z
 publishdate: 2020-05-29T15:26:15Z
 TableOfContents: true
-title: "Novel | 小说"
+title: "小说 | Novel"
 description: "王小波小说作品，包括时代三部曲“黄金时代、白银时代、青铜时代；其他小说及剧本：黑铁时代、地久天长。"
 slug: novel
 draft: false

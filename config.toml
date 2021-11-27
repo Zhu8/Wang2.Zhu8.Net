@@ -61,14 +61,14 @@ enableMissingTranslationPlaceholders = false
 # See https://gohugo.io/content-management/menus/
 [menu]
     [[menu.main]]
-        name = "Home | 首页"
+        name = "首页 | Home"
         url = "/"
         weight = 1
 
     [[menu.main]]
         name = "Zhu8.Net"
         url = "https://zhu8.net/"
-        weight = 2
+        weight = 3
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/

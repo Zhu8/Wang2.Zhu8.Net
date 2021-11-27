@@ -4,7 +4,7 @@ date: 2020-05-29T15:26:15Z
 lastmod: 2020-05-29T15:26:15Z
 publishdate: 2020-05-29T15:26:15Z
 TableOfContents: true
-title: "Scribble | 杂文"
+title: "杂文 | Scribble"
 description: "王小波杂文作品，包括我的精神家园、沉默的大多数。"
 slug: scribble
 draft: false
