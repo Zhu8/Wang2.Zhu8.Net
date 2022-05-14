@@ -2,7 +2,7 @@ baseURL = "https://wang2.zhu8.net"
 
 languageCode = "zh-cn"
 DefaultContentLanguage = "zh"
-title = "无声听雨-王小波作品精选"
+title = "无声听雨·王小波作品精选"
 theme = "hugo-theme-techdoc"
 
 hasCJKLanguage = true
@@ -23,7 +23,7 @@ enableMissingTranslationPlaceholders = false
     # Open Graph settings for each page are set on the front matter.
     # See https://gohugo.io/templates/internal/#open-graph
     # See https://gohugo.io/templates/internal/#twitter-cards
-    title = "无声听雨-王小波作品精选"
+    title = "无声听雨·王小波作品精选"
     images = ["images/og-image.png"] # Open graph images are placed in `static/images`
 
     # Theme settings section
