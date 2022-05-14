@@ -68,7 +68,7 @@ enableMissingTranslationPlaceholders = false
     [[menu.main]]
         name = "Zhu8.Net"
         url = "https://zhu8.net/"
-        weight = 3
+        weight = 8
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
