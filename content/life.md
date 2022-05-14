@@ -6,6 +6,7 @@ menu = "main"
 slug = "life"
 description = "王小波生平年表 & 王小波年谱简编 & 王小波著作出版年表及目录"
 weight = 3
+TableOfContents = true
 +++
 
 王小波生平
